@@ -22,3 +22,11 @@ Pré requisitos:
 5 - Criar cenários
   No VSCode:
     arquivo "listar-dispositivos.cy.js";
+
+# estrutura de um arquivo .cy
+/// <reference types="cypress"/>
+
+//funcionalidade
+    //cenario de teste 1
+
+    //cenario de teste 2
